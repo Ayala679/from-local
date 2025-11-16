@@ -1,5 +1,5 @@
-const a = ()=>{
-    alert("hello")
+const a = () =>{
+
 }
 
 const b = ()=>{
