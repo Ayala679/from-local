@@ -1,7 +1,9 @@
 const a = () =>{
-    alert("5")
+    alert("hello")
 }
 
 const b = () =>{
-    return 5
+    alert("5")
+    return '5'
 }
+
