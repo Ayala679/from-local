@@ -18,4 +18,6 @@ const c = () =>{
     
 }
 
-
+const f = ()=>{
+    alert("f")
+}
